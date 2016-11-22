@@ -1,5 +1,6 @@
 package spoker.hand.spec
 
+
 import spoker._
 import spoker.hand.Hand
 import spoker.hand.HandRanking._
